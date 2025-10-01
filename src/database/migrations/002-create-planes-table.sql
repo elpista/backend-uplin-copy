@@ -1,0 +1,11 @@
+CREATE TABLE IF NOT EXISTS planes (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(50) NOT NULL UNIQUE,
+    creditos_mes INT NOT NULL,
+    meses_cred INT NOT NULL,
+    horas_cons int NOT NULL,
+    precio DECIMAL(10, 2) NOT NULL,
+    active BOOLEAN DEFAULT TRUE,
+    fecha_alta TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    ultima_mod TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+) ENGINE=InnoDB;
