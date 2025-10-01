@@ -1,6 +1,6 @@
 # 🚀 Backend - UPLIN
 
-Este repositorio contiene el código fuente del backend del proyecto **UPLIN**. Desarrollado durante 1 mes y medio por Marco Pistagnesi, en colaboración con Gastón Orellano y Tomás Ulman
+Este repositorio es una copia del código fuente backend del proyecto de <a href="https://www.linkedin.com/company/uplin">**UPLIN**</a> antes de que se integre al nuevo equipo de desarrollo, los commits reales de ésta versión se encuentran en el <a href="https://github.com/Uplinhr/backend"> repositorio original</a> desde la fecha de inicio del proyecto hasta el día 10 de septiembre de 2025. Desarrollado por <a href="www.linkedin.com/in/marco-pistagnesi-0a3993243">Marco Pistagnesi</a>, en colaboración con <a href="https://www.linkedin.com/in/gaston-orellano">Gastón Orellano</a> y <a href="https://www.linkedin.com/in/tomasagustinulman">Tomás Ulman</a> con una duración de 3 meses
 
 ---
 
@@ -16,7 +16,7 @@ En caso de querer iniciar el proyecto, instalar <a href="https://dev.mysql.com/d
 
 **`git clone https://github.com/Uplinhr/backend.git`** (descargar el repositorio)
 
-**`cd backend`** (acceder a la carpeta del proyecto)
+**`cd backend-uplin-copy`** (acceder a la carpeta del proyecto)
 
 **`npm i`** (instalar las dependencias en npm)
 
@@ -31,21 +31,21 @@ Antes de iniciar el backend, asegurarse de tener configuradas las variables de e
 
 DB_HOST=localhost
 
-DB_USER=root
+DB_USER=TuUsuario
 
-DB_PASSWORD=admin
+DB_PASSWORD=TuContraseña
 
 DB_NAME=uplindb
 
 PORT=4000
 
-JWT_SECRET=claveAuthPista
+JWT_SECRET=UnaClaveDeJWT
 
 DEV=true
 
-MAIL_API_KEY=re_aDh93bUh_DbsA2Lc4wwYk3VKVBwonAHcY
+MAIL_API_KEY=TuApiDeRESEND
 
-EMAIL_FROM=noreply@noreply.uplinhr.com
+EMAIL_FROM=TuCorreoElectrónicoDeEnviosDeMailDeRESEND
 
 FRONTEND_URL=http://localhost:3000
 
