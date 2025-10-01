@@ -1,6 +1,6 @@
 # 🚀 Backend - UPLIN
 
-Este repositorio es una copia del código fuente backend del proyecto de <a href="https://www.linkedin.com/company/uplin">**UPLIN**</a> antes de que se integre al nuevo equipo de desarrollo, los commits reales de ésta versión se encuentran en el <a href="https://github.com/Uplinhr/backend"> repositorio original</a> desde la fecha de inicio del proyecto hasta el día 10 de septiembre de 2025. Desarrollado por <a href="www.linkedin.com/in/marco-pistagnesi-0a3993243">Marco Pistagnesi</a>, en colaboración con <a href="https://www.linkedin.com/in/gaston-orellano">Gastón Orellano</a> y <a href="https://www.linkedin.com/in/tomasagustinulman">Tomás Ulman</a> con una duración de 3 meses
+Este repositorio es una copia del código fuente backend del proyecto de <a href="https://www.linkedin.com/company/uplin">**UPLIN**</a> antes de que se integre al nuevo equipo de desarrollo, los commits reales de ésta versión se encuentran en el <a href="https://github.com/Uplinhr/backend"> repositorio original</a> desde la fecha de inicio del proyecto hasta el día 10 de septiembre de 2025. Desarrollado por <a href="https://www.linkedin.com/in/marco-pistagnesi-0a3993243">Marco Pistagnesi</a>, en colaboración con <a href="https://www.linkedin.com/in/gaston-orellano">Gastón Orellano</a> y <a href="https://www.linkedin.com/in/tomasagustinulman">Tomás Ulman</a> con una duración de 3 meses
 
 ---
 
